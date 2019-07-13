@@ -1,0 +1,12 @@
+C:\WebApp\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csprojAssemblyReference.cache
+C:\WebApp\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\WebApp\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\WebApp\SportsStore\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfo.cs
+C:\WebApp\HyongdonJeong_COMP229_004_A1\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csprojAssemblyReference.cache
+C:\WebApp\HyongdonJeong_COMP229_004_A1\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\WebApp\HyongdonJeong_COMP229_004_A1\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\WebApp\HyongdonJeong_COMP229_004_A1\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfo.cs
+C:\WebApp\HyongdonJeong_COMP229_004_A3\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csprojAssemblyReference.cache
+C:\WebApp\HyongdonJeong_COMP229_004_A3\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.csproj.CoreCompileInputs.cache
+C:\WebApp\HyongdonJeong_COMP229_004_A3\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\WebApp\HyongdonJeong_COMP229_004_A3\SportsStore.Tests\obj\Debug\netcoreapp2.1\SportsStore.Tests.AssemblyInfo.cs
